@@ -1,6 +1,7 @@
 # car_tracker
 ROS Package for vehicle tracking using pointcloud detector
 
+pip install -r requirements.txt in your virtualenv
 
 catkin_make along with ldls library. 
 
