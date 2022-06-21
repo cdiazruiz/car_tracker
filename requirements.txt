@@ -27,7 +27,7 @@ kiwisolver==1.1.0
 laser-geometry==1.6.4
 matplotlib==2.2.4
 message-filters==1.12.14
-numpy==1.16.4
+numpy==1.22.0
 pluginlib==1.11.3
 pyparsing==2.4.0
 python-dateutil==2.8.0
